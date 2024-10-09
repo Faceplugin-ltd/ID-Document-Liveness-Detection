@@ -39,7 +39,7 @@ pip install opencv-python
 pip install ultralytics
 ```
 
-### Check document liveness of the test ID documents in test_image directory
+### Check document liveness of the ID documents in test_image directory
 ```python
 python doc_liveness.py
 ```
