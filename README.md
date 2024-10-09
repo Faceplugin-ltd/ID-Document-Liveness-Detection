@@ -18,6 +18,8 @@ This SDK is perfect for industries such as:
 - Telecommunications
 - Government and Public Services
 
+**Please contact us to get the SDK with better accuracy.**
+
 ## Features
 
 - **AI-Powered Liveness Detection**: Detects live documents in real-time.
