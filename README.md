@@ -4,8 +4,8 @@
 
 # ID Document Liveness Detection SDK
 
-![Forks](https://img.shields.io/github/forks/Faceplugin-ltd/Face-Recognition-SDK)
-![Stars](https://img.shields.io/github/stars/Faceplugin-ltd/Face-Recognition-SDK)
+![Forks](https://img.shields.io/github/forks/Faceplugin-ltd/ID-Document-Liveness-Detection)
+![Stars](https://img.shields.io/github/stars/Faceplugin-ltd/ID-Document-Liveness-Detection)
 
 ## Overview
 
