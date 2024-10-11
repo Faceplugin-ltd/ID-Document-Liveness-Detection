@@ -2,7 +2,7 @@
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-Javascript/assets/160750757/657130a9-50f2-486d-b6d5-b78bcec5e6e2.png" width=200/>
 </div>
 
-# ID Document Liveness Detection SDK
+# ID Document Liveness Detection SDK - Completely Free and Open Source
 
 ![Forks](https://img.shields.io/github/forks/Faceplugin-ltd/ID-Document-Liveness-Detection)
 ![Stars](https://img.shields.io/github/stars/Faceplugin-ltd/ID-Document-Liveness-Detection)
@@ -18,7 +18,7 @@ This SDK is perfect for industries such as:
 - Telecommunications
 - Government and Public Services
 
-**Please contact us to get the SDK with better accuracy.**
+**Please contact us to get the SDK with higher accuracy.**
 
 ## Features
 
