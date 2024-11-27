@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is world's 1st `completely free` and `open source`  **ID Document Liveness Detection SDK**. This SDK is a robust and scalable solution designed to ensure the authenticity of ID documents including ID card, Driver License and Passport. By leveraging cutting-edge AI and machine learning algorithms, this SDK can accurately detect live documents, preventing fraud and spoofing attacks.
+This is world's 1st `completely free` and `open source`  **ID Document Liveness Detection SDK** from [Faceplugin](https://faceplugin.com/). This SDK is a robust and scalable solution designed to ensure the authenticity of ID documents including ID card, Driver License and Passport. By leveraging cutting-edge AI and machine learning algorithms, this SDK can accurately detect live documents, preventing fraud and spoofing attacks.
 
 This SDK is perfect for industries such as:
 - Fintech and Banking
